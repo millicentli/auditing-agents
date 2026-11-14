@@ -16,7 +16,7 @@ dependencies = [
     "transformers==5.2.0",
     "zstandard==0.25.0",
     "aiofiles",
-    "torch==2.9.0",
+    "torch==2.13.0",
     "torchtyping",
     "peft",
     "fastapi",
